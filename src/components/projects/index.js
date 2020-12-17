@@ -21,6 +21,7 @@ export const Projects = () =>{
              oferecido pela labenu, com a proposta de treinar a criação de um backend
               baseado na arquitetura MVC."
             textButton="ver no GitHub"
+            link="https://github.com/NilsonKuroki/LaBook"
             />
             <BoxProject 
             backgroundColor="#5589ab"

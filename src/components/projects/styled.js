@@ -60,8 +60,9 @@ export const ContainerButtons = styled.div`
 
 export const ButtonStyled = styled.button`
     min-width: 140px;
-    height: 30px;
+    height: 40px;
     padding: 10px 16px;
+    margin: 10px;
     display: flex;
     align-items: center;
     color: white;
