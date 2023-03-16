@@ -1,10 +1,10 @@
 import React from 'react'
-import {ContainerFooter} from './styled'
+import { ContainerFooter } from './styled'
 
-export const Footer = () =>{
-    return(
-        <ContainerFooter>
-            <p>© 2020 Nilson Kuroki</p>
-        </ContainerFooter>
-    )
+export const Footer = () => {
+  return (
+    <ContainerFooter>
+      <p>© 2023 Nilson Kuroki</p>
+    </ContainerFooter>
+  )
 }

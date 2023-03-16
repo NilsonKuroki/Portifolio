@@ -10,16 +10,16 @@ import {Contacts} from '../../components/contacts'
 import {Footer} from '../../components/footer'
 
 export const Portifolio = () =>{
-    return(
-        <ContainerPortifolio> 
-            <Menu/>
-            <Iam/>
-            <AboutMe/>
-            <Knowledges/>
-            <Education/>
-            <Projects/>
-            <Contacts/>
-            <Footer/>
-        </ContainerPortifolio>
-    )
+  return(
+    <ContainerPortifolio>
+      <Menu/>
+      <Iam/>
+      <AboutMe/>
+      <Knowledges/>
+      <Education/>
+      <Projects/>
+      <Contacts/>
+      <Footer/>
+    </ContainerPortifolio>
+  )
 }
