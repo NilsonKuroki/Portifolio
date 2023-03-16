@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portifolio/static/css/main.336e6a7a.css",
+    "main.js": "/Portifolio/static/js/main.7efc1250.js",
+    "static/media/perfil.jpg": "/Portifolio/static/media/perfil.f2695c5bf7f218c67274.jpg",
+    "static/media/macbook.png": "/Portifolio/static/media/macbook.71ce97db12d831ddf6b6.png",
+    "static/media/curriculo.pdf": "/Portifolio/static/media/curriculo.2cc4e827bba41b4d26b9.pdf",
+    "static/media/imac.png": "/Portifolio/static/media/imac.04320955d6bd9e1ca06d.png",
+    "static/media/ipad.png": "/Portifolio/static/media/ipad.492e426ccf8929a8ff67.png",
+    "static/media/cat.svg": "/Portifolio/static/media/cat.b17a214333484eec7924c3b8ee2b217d.svg",
+    "static/media/linkedin.svg": "/Portifolio/static/media/linkedin.7faae82469da7bfaa0a309e85fea4215.svg",
+    "static/media/instagram.svg": "/Portifolio/static/media/instagram.daa5fb911dfa21164db84c2082364f3e.svg",
+    "static/media/github.svg": "/Portifolio/static/media/github.6b38f5491c499cd06f1746218802a2d3.svg",
+    "index.html": "/Portifolio/index.html",
+    "main.336e6a7a.css.map": "/Portifolio/static/css/main.336e6a7a.css.map",
+    "main.7efc1250.js.map": "/Portifolio/static/js/main.7efc1250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.336e6a7a.css",
+    "static/js/main.7efc1250.js"
+  ]
+}
