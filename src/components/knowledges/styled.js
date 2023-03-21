@@ -33,6 +33,9 @@ export const ContainerContents = styled.div`
     width: 100%;
     height: auto;
     flex-direction: column;
+    div:first-child{
+      margin-bottom: 30px;
+    }
   }
 `
 
@@ -43,6 +46,7 @@ export const Content = styled.div`
     margin-top: 20px;
     font: 400 1.3rem Montserrat;
   }
+  margin-bottom: 10px;
 
   @media only screen and (max-width: 900px) {
     margin-top: 0;

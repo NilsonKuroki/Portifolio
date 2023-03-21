@@ -7,15 +7,13 @@ import GitHub from '../../images/github.svg'
 export const Contacts = () => {
   return (
     <ContainerContacts id="contacts">
-      <h2>Contrate-me</h2>
+      <h2>Contate-me</h2>
       <p>
-        <center>
-          Procuro oportunidade de trabalho onde eu possa aprender,<br />
-          me desenvolver e evoluir na minha carreia profissional.<br />
-          <br />
-          E-mail para contato: nilsonkurokii@gmail.com<br />
-          Celular: (11) 94865-2095<br />
-        </center>
+        Procuro oportunidade de trabalho onde eu possa aprender,
+        me desenvolver e evoluir na minha carreia profissional.
+      </p>
+      <p>
+        E-mail para contato: nilsonkurokii@gmail.com
       </p>
       <ContainerImages>
         <a href="https://www.linkedin.com/in/nilson-kuroki/"><img src={LinkedIn} alt="LinkedIn" /></a>
