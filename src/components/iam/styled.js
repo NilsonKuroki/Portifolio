@@ -31,7 +31,7 @@ export const ImgPerfil = styled.img`
 export const ContainerText = styled.div`
   height: 100%;
   width: 50%;
-  min-width: 600px;
+  min-width: 90vw;
   display: flex;
   justify-content: center;
   align-items: center;
