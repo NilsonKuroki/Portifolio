@@ -31,7 +31,7 @@ export const Options = styled.div`
     text-decoration:none;
   }
   @media only screen and (max-width: 900px) {
-  flex-direction: column;
+  flex-direction: column-reverse;
   align-items: center;
   a{
     margin-top: 10px;

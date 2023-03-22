@@ -31,7 +31,6 @@ export const ImgPerfil = styled.img`
 export const ContainerText = styled.div`
   height: 100%;
   width: 50%;
-  min-width: 90vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,9 +42,11 @@ export const ContainerText = styled.div`
   @media only screen and (max-width: 900px) {
     h1{
       font-size: 2rem;
+      text-align: center;
     }
     h3{
       font-size: 1rem;
+      text-align: center;
     }
   }
 `
